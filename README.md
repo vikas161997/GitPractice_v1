@@ -1,1 +1,2 @@
-# GitPractice-v1
+# GitPractice 
+changes in the readme file 
